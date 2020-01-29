@@ -1,5 +1,14 @@
 # random_lines
 
-simple amazing python script for random lines
+Simple amazing python script for random lines. 
 
-author : Hitch Hicker & @pure.python
+## Requirements
+python3
+turtle lib
+
+## Usage:
+```
+git clone https://github.com/hitchhicker007/random_lines.git
+cd random_lines
+python random_lines.py
+```
