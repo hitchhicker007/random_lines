@@ -13,4 +13,4 @@ cd random_lines
 python random_lines.py
 ```
 ## Screenshot:
-![](screenshot.gif)
+![DEMO](demo/random_lines.gif)
